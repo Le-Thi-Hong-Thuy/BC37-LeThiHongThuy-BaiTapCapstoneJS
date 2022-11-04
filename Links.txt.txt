@@ -1,0 +1,9 @@
+Shopping Cart:
+Link source code (github):	https://github.com/Le-Thi-Hong-Thuy/BC37-baitap-capstone-shopping-cart
+Link deploy (vercel):		https://bc-37-baitap-capstone-shopping-cart.vercel.app/
+
+Admin:
+Link source code (github):	https://github.com/Le-Thi-Hong-Thuy/BC37-baitap-capstone-admin
+Link deploy (vercel):		https://bc-37-baitap-capstone-admin.vercel.app/
+
+Linh youtube:                   https://youtu.be/FDejKJa0aZs
